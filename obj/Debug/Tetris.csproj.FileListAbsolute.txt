@@ -1,0 +1,40 @@
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Erdem\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Acer\Desktop\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Acer\Desktop\2020-2021 Eğitim Öğretim Yılı Güz Dönemi Eğitim Dokümanları\Diğer\tetris-brick-game-master\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Erdem\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Erdem\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Erdem\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Erdem\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
